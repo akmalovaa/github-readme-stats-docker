@@ -39,6 +39,7 @@ Change command where:
 
 
 ## or docker-compose
+
 Change **.env** file - input your login and token
 
 ```
