@@ -2,7 +2,13 @@
 
 Project [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Dynamically generated stats github readmes and beautiful display of statistics Github profile
 
+Examples:
 [![example-image](https://camo.githubusercontent.com/8fd2570f103d1aae8a4d8970535274ae19c2ee62587d8868d618be37001263d0/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67)]()
+
+
+---
+
+### You can just use the service from the author, but there is one problem
 
 > **Warning**
 > Project use deploy [vercel.app](https://github-readme-stats.vercel.app/api) and have only allows 5k requests per hour, and sometimes there are errors in the display - [more info](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
@@ -15,8 +21,8 @@ Generate [GitHub Personal Access Token](https://docs.github.com/en/authenticatio
 Minimal permissions (you can choose nothing at all, just create)
 
 ```
-git clone __ 
-cd __
+git clone https://github.com/akmalovaa/github-readme-stats-docker.git
+cd github-readme-stats-docker
 ```
 
 ### docker
@@ -44,6 +50,12 @@ I use a dns manager cloudflare and separate self nginx proxy manager
 [https://github.akmalov.com/api](https://github.akmalov.com/api)
 
 ## Test
+
 **Theme:** tokyonigh
+
+
 [![img](https://github.akmalov.com/api?theme=tokyonight&count_private=true&show_icons=true)](https://github.akmalov.com/api?theme=tokyonight&count_private=true&show_icons=true)
+
 [![img](https://github.akmalov.com/api/top-langs/?theme=tokyonight&count_private=true&show_icons=true)](https://github.akmalov.com/api/top-langs/?theme=tokyonight&count_private=true&show_icons=true)
+
+[![img](https://github.akmalov.com/api/pin/?repo=github-readme-stats-docker&theme=tokyonight&count_private=true&show_icons=true)](https://github.akmalov.com/api/pin/?repo=github-readme-stats-docker&theme=tokyonight&count_private=true&show_icons=true)
