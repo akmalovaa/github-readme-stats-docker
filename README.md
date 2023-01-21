@@ -32,7 +32,9 @@ docker build -t github-state .
 docker run --name github-state -p 3000:3000 -e PAT_1=GITHUB_ACCESS_TOKEN -e USER=GITHUB_USER_NAME -d github-state
 ```
 Change command where:
+
 **GITHUB_ACCESS_TOKEN** = your access token
+
 **GITHUB_USER_NAME** = your gihub login
 
 
