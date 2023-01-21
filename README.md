@@ -2,7 +2,7 @@
 
 Project [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Dynamically generated stats github readmes and beautiful display of statistics Github profile
 
-Examples:
+Examples [Available Themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md):
 [![example-image](https://camo.githubusercontent.com/8fd2570f103d1aae8a4d8970535274ae19c2ee62587d8868d618be37001263d0/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67)]()
 
 
