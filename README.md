@@ -25,7 +25,7 @@ git clone https://github.com/akmalovaa/github-readme-stats-docker.git
 cd github-readme-stats-docker
 ```
 
-### docker
+## docker
 
 ```
 docker build -t github-state .
@@ -38,7 +38,7 @@ Change command where:
 **GITHUB_USER_NAME** = your gihub login
 
 
-### or docker-compose
+## or docker-compose
 Change **.env** file - input your login and token
 
 ```
